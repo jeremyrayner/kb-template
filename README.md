@@ -49,3 +49,11 @@ The LLM reads sources from `raw/`, compiles them into interlinked wiki pages in 
 See `CLAUDE.md` for the full schema, conventions, and workflows.
 See `_prompts/` for the compilation and update prompts.
 See `docs/` for the usage guide and founding documents.
+
+## Attribution
+
+This project is based on the LLM knowledge base pattern created by [Andrej Karpathy](https://github.com/karpathy). The core idea — using LLMs to incrementally compile and maintain a persistent wiki from raw source documents — originates from his work and writings on the topic. The founding documents in `docs/` capture his original vision; this template packages it into a ready-to-use structure.
+
+## License
+
+MIT License — see [LICENSE](LICENSE) for details.
