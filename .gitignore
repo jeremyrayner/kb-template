@@ -1,0 +1,11 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/core-plugins-migration.json
+.obsidian/community-plugins.json
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
