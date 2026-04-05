@@ -1,6 +1,6 @@
 # LLM Knowledge Base Template
 
-A ready-to-use template repo to fork - `for building LLM-maintained knowledge bases with Obsidian based on the LLM knowledge base pattern created by [Andrej Karpathy](https://github.com/karpathy).
+A ready-to-use template repo to fork - for building LLM-maintained knowledge bases with Obsidian based on the LLM knowledge base pattern created by [Andrej Karpathy](https://github.com/karpathy).
 
 ## Design principles
 
