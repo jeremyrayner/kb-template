@@ -14,8 +14,8 @@ A ready-to-use template for building LLM-maintained knowledge bases with Obsidia
 
 ## Quick start
 
-1. Copy or unzip this folder and rename it to your topic (e.g. `my-topic-kb/`)
-2. Run `git init` in the folder — the wiki is just markdown files, so you get version history for free
+1. Fork this repo, or copy or unzip this folder and rename it to your topic (e.g. `kb-my-topic/)
+2. Run `git init` in the folder (if not already forked) — the wiki is just markdown files, so you get version history for free
 3. If not using Claude Code, rename `CLAUDE.md` to match your agent (e.g. `AGENTS.md` for Codex)
 4. Open the folder as an Obsidian vault (wikilinks and attachment path are pre-configured in `.obsidian/app.json`)
 5. Install community plugins: **Marp Slides**, **Dataview**, **Breadcrumbs**, **Excalidraw** (all optional)
